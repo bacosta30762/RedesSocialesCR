@@ -6,16 +6,20 @@ import AboutSection from './components/AboutSection';
 import FeaturesSection from './components/FeaturesSection';
 import CallToAction from './components/CallToAction';
 import LeyesCR from './components/LeyesCR';
+import ProblematicasCR from './components/ProblematicaCR';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
     <BrowserRouter basename="/RedesSocialesCR">
         <Header />
         <Hero />
+        <ProblematicasCR />
         <AboutSection />
         <FeaturesSection />
         <CallToAction />
         <LeyesCR />
+        <Footer />
     </BrowserRouter>
   );
 };

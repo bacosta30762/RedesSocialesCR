@@ -48,7 +48,8 @@ const HeroSection = () => {
                  Además, el discurso de odio y la desinformación en redes sociales afectan a grupos como mujeres, minorías étnicas y la comunidad LGTBIQ+, 
                  mientras que la falta de regulación en plataformas como Facebook y Twitter expone a las víctimas a riesgos adicionales.
               </p>
-              <button className="btn-get-started animate__animated animate__fadeInUp scrollto">
+              <button className="btn-get-started animate__animated animate__fadeInUp scrollto"
+              onClick={() => document.getElementById("problematica").scrollIntoView({ behavior: "smooth" })}>
                 Leer más
               </button>
             </div>
