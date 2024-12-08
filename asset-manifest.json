@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RedesSocialesCR/static/css/main.009161a4.css",
+    "main.js": "/RedesSocialesCR/static/js/main.11701dc7.js",
+    "static/media/legalUE.jpg": "/RedesSocialesCR/static/media/legalUE.98357e3b30b72e989d19.jpg",
+    "static/media/bootstrap-icons.woff?": "/RedesSocialesCR/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/RedesSocialesCR/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/legal.jpg": "/RedesSocialesCR/static/media/legal.81a97a815cc21106e483.jpg",
+    "index.html": "/RedesSocialesCR/index.html",
+    "main.009161a4.css.map": "/RedesSocialesCR/static/css/main.009161a4.css.map",
+    "main.11701dc7.js.map": "/RedesSocialesCR/static/js/main.11701dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.009161a4.css",
+    "static/js/main.11701dc7.js"
+  ]
+}
