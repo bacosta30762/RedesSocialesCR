@@ -49,7 +49,7 @@ Before contributing, ensure you have:
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/RedesSocialesCR.git
+   git clone https://github.com/bacosta30762/RedesSocialesCR.git
    cd RedesSocialesCR
    ```
 
